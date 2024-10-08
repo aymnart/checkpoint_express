@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    background-color: azure;
+}
+.links{
+    display: flex;
+    gap: 1rem;
+    padding: 0.5rem 1.5rem;
+}
+.links:hover{
+    background-color: bisque;
+    color: black;
+    border-radius: 50%;
+}
