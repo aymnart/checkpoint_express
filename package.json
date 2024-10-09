@@ -1,13 +1,13 @@
 {
   "name": "checkpoint_express",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "aymen",
   "license": "ISC",
-  "description": "",
+  "description": "a project for express checkpoint",
   "dependencies": {
     "express": "^4.21.0"
   }
